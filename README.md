@@ -1,0 +1,1 @@
+Today I thought of making a little game. So I created a Rock Paper Scissors Game using Python. Although we play it with each other in real life, it brings a lot of weird fun to the digital world as well. It's so much fun. Play and have fun too 😇🚀.
